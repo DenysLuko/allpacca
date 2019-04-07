@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "Avenir-Light",
+        "fontSize": 24,
+      }
+    }
+  >
+    AllPacca
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 250,
+        "justifyContent": "space-between",
+        "top": 50,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "borderColor": "#4db8b8",
+          "borderRadius": 50,
+          "borderWidth": 1,
+          "height": 70,
+          "maxWidth": 300,
+          "width": "70%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#006b6b",
+              "fontFamily": "Avenir-Light",
+              "fontSize": 24,
+            }
+          }
+        >
+          Search
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "borderColor": "#4db8b8",
+          "borderRadius": 50,
+          "borderWidth": 1,
+          "height": 70,
+          "maxWidth": 300,
+          "width": "70%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#006b6b",
+              "fontFamily": "Avenir-Light",
+              "fontSize": 24,
+            }
+          }
+        >
+          New Journey
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "borderColor": "#4db8b8",
+          "borderRadius": 50,
+          "borderWidth": 1,
+          "height": 70,
+          "maxWidth": 300,
+          "width": "70%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#006b6b",
+              "fontFamily": "Avenir-Light",
+              "fontSize": 24,
+            }
+          }
+        >
+          New Delivery
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
